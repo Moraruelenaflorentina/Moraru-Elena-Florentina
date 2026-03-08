@@ -13,7 +13,7 @@ I am a second year Automation Engineering Student at UniTBv.
 * **[Autonomous Acoustic-Targeting Robot with Obstacle Avoidance](Link):** Sensor Fusion and Real-time Logic.
 
 #### 🏭 App Development
-* **[Full-Stack MERN E-commerce Platform with Admin Control](Link):** System Architecture, Databases, & Admin Control.
+* **[Full-Stack MERN E-commerce Platform with Admin Control]([Link](https://github.com/Moraruelenaflorentina/E-commerce-website)):** System Architecture, Databases, & Admin Control.
 * **[Spendings Tracker](Link):** A Visual Studio, Windows Forms Application.
 
 ---
